@@ -1,0 +1,51 @@
+_repo: Kultaviulu_75224
+_version: 0.0.1
+alternative_title: Az arany hegedű. Finnish
+contributor:
+  translator:
+    agent_name: Pesola, Väinö
+    aliases:
+    - Pesola, Väinö Johannes
+    - Pesola, John Väinö
+    - Pesola, Vaino
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '57890'
+    url: http://www.gutenberg.org/2009/agents/57890
+    wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Pesola
+creator:
+  author:
+    agent_name: Herczeg, Ferenc
+    aliases:
+    - Herczeg, Francesco
+    - Herczeg, Franz
+    - Herzog, Franz
+    - Herczegh, Ferencz
+    - Herczeg, Franciszek
+    birthdate: 1863
+    deathdate: 1954
+    gutenberg_agent_id: '57788'
+    url: http://www.gutenberg.org/2009/agents/57788
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferenc_Herczeg
+    - https://hu.wikipedia.org/wiki/Herczeg_Ferenc_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2025-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75224'
+language: fi
+pgterms:marc905: 20240625011506herczeg
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Ahjo, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- Translations into Finnish'
+- !lcc 'PH'
+- GITenberg
+title: Kultaviulu
+url: http://www.gutenberg.org/ebooks/75224
