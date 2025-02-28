@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '57890'
     url: http://www.gutenberg.org/2009/agents/57890
     wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Pesola
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Herczeg, Ferenc
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ferenc_Herczeg
     - https://hu.wikipedia.org/wiki/Herczeg_Ferenc_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75224#Kultaviulu
 gutenberg_issued: '2025-01-27'
 gutenberg_type: Text
 identifiers:
